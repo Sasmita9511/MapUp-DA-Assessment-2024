@@ -1,4 +1,3 @@
-
 # MapUp - Python Assessment
 
 ## Overview
